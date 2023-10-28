@@ -1,0 +1,383 @@
+10:36:52.187 info extension stopping host
+10:37:00.966 info extension host process output: port:[59450]
+10:36:59.662 info host ------------ starting ------------
+10:37:00.966 info extension 
+10:37:01.071 info host client connected: extension { address: '::', family: 'IPv6', port: 59450 }
+10:37:02.986 info host starting host: {"extensionFolder":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238","runtimeHookFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\Tamo Marvin\\Desktop\\Marvin Estate\\client\\tailwind.config.js","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\Desktop\\Marvin Estate\\client\\src\\App.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"autoClearLogViewerOnFileChanges":true,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-FVQECV0","192.168.70.1","192.168.13.1","192.168.62.230"],"host":"127.0.0.1"}
+10:37:03.032 info host starting tools discovery and integration
+10:37:03.033 info host creating C:\Users\Tamo Marvin\.console-ninja\.bin
+10:37:03.051 info host installing C:\Users\Tamo Marvin\.console-ninja\.bin\loader.js
+10:37:03.474 info host installing C:\Users\Tamo Marvin\.console-ninja\.bin\console-ninja.ps1
+10:37:03.990 info host installing C:\Users\Tamo Marvin\.console-ninja\.bin\console-ninja.cmd
+10:37:03.992 info host installing PATH C:\Users\Tamo Marvin\.console-ninja\.bin
+10:37:06.942 info host worker Starting Host Worker...
+10:37:23.995 info host looking for tools to patch
+10:37:24.628 info host found 1 tool file(s) to patch
+10:37:24.630 info host patching c:\users\tamo marvin\desktop\marvin estate\client\node_modules\vite\bin\vite.js
+10:37:25.002 info host completed tools discovery and integration
+10:39:06.764 info extension stopping host
+10:39:11.615 info host ------------ starting ------------
+10:39:12.149 info host worker Starting Host Worker...
+10:39:12.628 info extension host process output: port:[59499]
+10:39:12.628 info extension 
+10:39:12.864 info host client connected: extension { address: '::', family: 'IPv6', port: 59499 }
+10:39:14.688 info host starting host: {"extensionFolder":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238","runtimeHookFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\(site)\\page.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\(site)\\components\\AuthForm.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\components\\Button.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\(site)\\components\\AuthSocialButton.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\components\\inputs\\Input.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\layout.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\tailwind.config.ts","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"autoClearLogViewerOnFileChanges":true,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-FVQECV0","192.168.70.1","192.168.13.1","192.168.62.230"],"host":"127.0.0.1"}
+10:39:14.734 info host starting tools discovery and integration
+10:39:15.276 info host installing PATH C:\Users\Tamo Marvin\.console-ninja\.bin
+10:39:27.115 info extension stopping host
+10:39:27.998 info host ------------ starting ------------
+10:39:28.241 info host worker Starting Host Worker...
+10:39:28.456 info extension host process output: port:[59514]
+10:39:28.456 info extension 
+10:39:30.218 info host client connected: extension { address: '::', family: 'IPv6', port: 59514 }
+10:39:31.092 info host starting host: {"extensionFolder":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238","runtimeHookFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\Tamo Marvin\\chartapp\\src\\App.jsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chartapp\\src\\main.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"autoClearLogViewerOnFileChanges":true,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-FVQECV0","192.168.70.1","192.168.13.1","192.168.62.230"],"host":"127.0.0.1"}
+10:39:31.131 info host starting tools discovery and integration
+10:39:31.144 info host installing PATH C:\Users\Tamo Marvin\.console-ninja\.bin
+10:39:40.764 info host looking for tools to patch
+10:39:40.764 info host looking for tools to patch
+10:40:18.591 info host found 1 tool file(s) to patch
+10:40:18.593 info host patching c:\users\tamo marvin\chartapp\node_modules\vite\bin\vite.js
+10:40:18.685 info host completed tools discovery and integration
+10:40:22.506 info host found 2 tool file(s) to patch
+10:40:22.537 info host patching c:\users\tamo marvin\chatme\node_modules\next\dist\compiled\webpack\bundle5.js
+10:40:22.538 info host patching c:\users\tamo marvin\chatme\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+10:40:23.122 info host completed tools discovery and integration
+10:49:49.944 info buildHook-9968 installing build hook for vite at c:\users\tamo marvin\desktop\marvin estate\client, node v18.18.2
+10:49:50.547 info buildHook-9968 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+10:49:50.731 info host client connected: buildHook { address: '::', family: 'IPv6', port: 59450 }
+10:49:50.547 info buildHook-9968 running tools: vite
+10:49:50.616 info buildHook-9968 installing fs interceptor
+10:49:50.979 info buildHook-9968 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+10:49:50.979 info buildHook-9968 running tools: vite
+10:49:59.025 info buildHook-9968 file processed (stat): 0 log points, error handler: true
+10:49:59.177 info buildHook-9968 file processed (stat): 0 log points, error handler: false
+10:49:59.289 info buildHook-9968 file processed (stat): 0 log points, error handler: false
+10:50:42.051 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+10:51:07.824 info buildHook-9968 file processed (stat): 0 log points, error handler: false
+10:51:08.593 info host client disconnected: runtimeHook 1001
+10:51:08.593 info host client disconnected: runtimeHook
+10:51:08.753 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+10:52:00.140 info buildHook-9968 file processed (stat): 0 log points, error handler: false
+10:52:08.917 info host client disconnected: runtimeHook 1001
+10:52:08.917 info host client disconnected: runtimeHook
+10:52:09.224 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+10:52:48.314 info buildHook-9968 file processed (stat): 0 log points, error handler: false
+10:54:00.221 info buildHook-9968 file processed (stat): 0 log points, error handler: false
+10:54:05.955 info host client disconnected: runtimeHook 1001
+10:54:05.955 info host client disconnected: runtimeHook
+10:54:06.167 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+10:55:13.707 info buildHook-9968 file processed (stat): 0 log points, error handler: false
+10:55:21.169 info host client disconnected: runtimeHook 1001
+10:55:21.170 info host client disconnected: runtimeHook
+10:55:21.343 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+10:56:49.375 info host client disconnected: runtimeHook 1001
+10:56:49.375 info host client disconnected: runtimeHook
+10:56:49.559 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+10:56:55.862 info buildHook-9968 file processed (stat): 0 log points, error handler: false
+10:56:56.678 info host client disconnected: runtimeHook 1001
+10:56:56.678 info host client disconnected: runtimeHook
+10:56:56.887 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+10:57:03.876 info host client disconnected: runtimeHook 1001
+10:57:03.876 info host client disconnected: runtimeHook
+10:57:04.022 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+10:57:22.403 info buildHook-9968 file processed (stat): 0 log points, error handler: false
+10:57:30.467 info host client disconnected: runtimeHook 1001
+10:57:30.468 info host client disconnected: runtimeHook
+10:57:30.610 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+10:58:35.354 info host client disconnected: runtimeHook 1001
+10:58:35.354 info host client disconnected: runtimeHook
+10:58:35.534 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+10:59:20.209 info host client disconnected: buildHook 4100
+10:59:20.210 info host client disconnected: buildHook 4100, has clients false
+11:02:27.827 info buildHook-9508 installing build hook for vite at c:\users\tamo marvin\desktop\marvin estate\client, node v18.18.2
+11:02:28.053 info host client connected: buildHook { address: '::', family: 'IPv6', port: 59450 }
+11:02:27.849 info buildHook-9508 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+11:02:27.849 info buildHook-9508 running tools: vite
+11:02:27.876 info buildHook-9508 installing fs interceptor
+11:02:28.062 info buildHook-9508 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+11:02:28.062 info buildHook-9508 running tools: vite
+11:02:29.243 info buildHook-9508 file processed (stat): 0 log points, error handler: true
+11:02:29.271 info buildHook-9508 file processed (stat): 0 log points, error handler: false
+11:02:29.317 info buildHook-9508 file processed (stat): 0 log points, error handler: false
+11:02:35.983 info host client disconnected: runtimeHook 1001
+11:02:35.983 info host client disconnected: runtimeHook
+11:02:41.499 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+11:05:50.052 info buildHook-9508 file processed (stat): 0 log points, error handler: false
+11:05:50.529 info buildHook-9508 file processed (promise): 0 log points, error handler: false
+11:05:50.556 info host client disconnected: runtimeHook 1001
+11:05:50.557 info host client disconnected: runtimeHook
+11:05:51.180 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+11:07:06.077 info host client disconnected: runtimeHook 1001
+11:07:06.078 info host client disconnected: runtimeHook
+11:07:06.981 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+11:07:17.832 info host client disconnected: runtimeHook 1001
+11:07:17.832 info host client disconnected: runtimeHook
+11:07:17.983 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+11:08:15.507 info host client disconnected: runtimeHook 1001
+11:08:15.507 info host client disconnected: runtimeHook
+11:08:16.058 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+11:09:12.349 info host client disconnected: buildHook 1006
+11:09:12.350 info host client disconnected: buildHook 1006, has clients false
+11:09:38.805 info host scheduling tools patching
+11:09:40.866 info host looking for tools to patch
+11:09:47.716 info host found 1 tool file(s) to patch
+11:09:47.718 info host patching c:\users\tamo marvin\desktop\marvin estate\client\node_modules\vite\bin\vite.js
+11:10:45.863 info host client disconnected: runtimeHook 1001
+11:10:45.863 info host client disconnected: runtimeHook
+11:13:50.859 info buildHook-6860 installing build hook for vite at c:\users\tamo marvin\desktop\marvin estate\client, node v18.18.2
+11:13:50.881 info buildHook-6860 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+11:13:50.881 info buildHook-6860 running tools: vite
+11:13:50.885 info buildHook-6860 installing fs interceptor
+11:13:50.944 info host client connected: buildHook { address: '::', family: 'IPv6', port: 59450 }
+11:13:50.955 info buildHook-6860 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+11:13:50.955 info buildHook-6860 running tools: vite
+11:13:51.491 info buildHook-6860 file processed (stat): 0 log points, error handler: true
+11:13:51.521 info buildHook-6860 file processed (stat): 0 log points, error handler: false
+11:13:51.564 info buildHook-6860 file processed (stat): 0 log points, error handler: false
+11:13:56.029 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+11:14:47.681 info host client disconnected: runtimeHook 1001
+11:14:47.681 info host client disconnected: runtimeHook
+11:14:48.229 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+11:14:56.027 info host client disconnected: runtimeHook 1001
+11:14:56.027 info host client disconnected: runtimeHook
+11:14:56.173 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+11:15:30.889 info host client disconnected: runtimeHook 1001
+11:15:30.890 info host client disconnected: runtimeHook
+11:15:31.065 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+11:16:17.992 info buildHook-6860 file processed (stat): 0 log points, error handler: false
+11:16:24.170 info host client disconnected: runtimeHook 1001
+11:16:24.170 info host client disconnected: runtimeHook
+11:16:24.322 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 59450 }
+11:19:27.609 info extension stopping host
+11:19:28.159 info host removing cache folder: 92fc7d261b462da498a8cd6222368de4
+11:20:24.102 info extension stopping host
+11:20:31.381 info extension stopping host
+11:20:32.596 info host ------------ starting ------------
+11:20:32.835 info extension host process output: port:[60163]
+11:20:32.836 info extension 
+11:20:32.906 info host client connected: extension { address: '::', family: 'IPv6', port: 60163 }
+11:20:33.233 info host starting host: {"extensionFolder":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238","runtimeHookFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"autoClearLogViewerOnFileChanges":true,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-FVQECV0","192.168.70.1","192.168.13.1","192.168.62.230"],"host":"127.0.0.1"}
+11:20:33.254 info host worker Starting Host Worker...
+11:20:33.291 info host starting tools discovery and integration
+11:20:33.519 info host installing PATH C:\Users\Tamo Marvin\.console-ninja\.bin
+11:20:49.295 info host looking for tools to patch
+11:20:50.277 info host client disconnected: buildHook 1006
+11:20:50.278 info host client disconnected: buildHook 1006, has clients false
+11:20:50.887 info extension stopping host
+11:20:50.912 info host removing cache folder: aa56ee4bdd67d1eef52dd9648bb72a13
+11:20:59.071 info host found 1 tool file(s) to patch
+11:20:59.073 info host patching c:\users\tamo marvin\desktop\marvin estate\client\node_modules\vite\bin\vite.js
+11:20:59.106 info host completed tools discovery and integration
+11:22:08.205 info host scheduling tools patching
+11:22:10.208 info host looking for tools to patch
+11:22:10.362 info host found 1 tool file(s) to patch
+11:22:10.363 info host patching c:\users\tamo marvin\desktop\marvin estate\client\node_modules\vite\bin\vite.js
+11:22:32.361 info extension stopping host
+11:22:32.382 info host removing cache folder: b963db4d5a82255706506158b5e34bf0
+11:24:40.956 info extension stopping host
+11:24:47.488 info extension stopping host
+11:24:48.826 info host ------------ starting ------------
+11:24:48.905 info extension host process output: port:[60267]
+11:24:48.905 info extension 
+11:24:48.983 info host client connected: extension { address: '::', family: 'IPv6', port: 60267 }
+11:24:49.311 info host worker Starting Host Worker...
+11:24:49.568 info host starting host: {"extensionFolder":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238","runtimeHookFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"autoClearLogViewerOnFileChanges":true,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-FVQECV0","192.168.70.1","192.168.13.1","192.168.62.230"],"host":"127.0.0.1"}
+11:24:49.624 info host starting tools discovery and integration
+11:24:49.641 info host installing PATH C:\Users\Tamo Marvin\.console-ninja\.bin
+11:24:53.625 info host looking for tools to patch
+11:24:53.639 info host found 0 tool file(s) to patch
+11:24:53.654 info host completed tools discovery and integration
+17:02:41.638 info host scheduling tools patching
+17:02:43.656 info host looking for tools to patch
+17:02:43.932 info host found 1 tool file(s) to patch
+17:02:43.935 info host patching c:\users\tamo marvin\desktop\marvin-estate\client\node_modules\vite\bin\vite.js
+17:07:24.841 info buildHook-7228 installing build hook for vite at c:\users\tamo marvin\desktop\marvin-estate\client, node v18.18.2
+17:07:24.863 info buildHook-7228 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+17:07:24.863 info buildHook-7228 running tools: vite
+17:07:24.910 info buildHook-7228 installing fs interceptor
+17:07:25.055 info host client connected: buildHook { address: '::', family: 'IPv6', port: 60267 }
+17:07:25.064 info buildHook-7228 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+17:07:25.065 info buildHook-7228 running tools: vite
+17:07:25.068 info buildHook-7228 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+17:07:25.068 info buildHook-7228 running tools: vite
+17:07:31.025 info buildHook-7228 file processed (stat): 0 log points, error handler: true
+17:07:31.110 info buildHook-7228 file processed (stat): 0 log points, error handler: false
+17:07:31.162 info buildHook-7228 file processed (stat): 0 log points, error handler: false
+17:07:35.722 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 60267 }
+17:07:49.291 info buildHook-7228 file processed (stat): 0 log points, error handler: false
+17:07:49.542 info host client disconnected: runtimeHook 1001
+17:07:49.542 info host client disconnected: runtimeHook
+17:07:49.791 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 60267 }
+17:08:55.836 info buildHook-7228 file processed (stat): 0 log points, error handler: false
+17:09:01.968 info host client disconnected: runtimeHook 1001
+17:09:01.969 info host client disconnected: runtimeHook
+17:09:02.114 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 60267 }
+17:09:51.495 info host client disconnected: runtimeHook 1001
+17:09:51.495 info host client disconnected: runtimeHook
+17:09:51.631 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 60267 }
+17:10:19.292 info buildHook-7228 file processed (stat): 0 log points, error handler: false
+17:11:21.601 info host client disconnected: buildHook 4100
+17:11:21.602 info host client disconnected: buildHook 4100, has clients false
+17:31:32.013 info extension stopping host
+17:31:32.064 info host removing cache folder: 9e0cc9ba3496ca154a5c2b24fdd407d1
+17:31:32.717 info extension client disconnected: 1006 
+17:31:54.760 info extension stopping host
+17:31:56.104 info host ------------ starting ------------
+17:31:56.283 info extension host process output: port:[60267]
+17:31:56.284 info extension 
+17:31:56.319 info host client connected: extension { address: '::', family: 'IPv6', port: 60267 }
+17:31:56.563 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 60267 }
+17:31:56.930 info host worker Starting Host Worker...
+17:31:58.176 info host starting host: {"extensionFolder":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238","runtimeHookFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\Tamo Marvin\\Desktop\\marvin-estate\\client\\tailwind.config.js","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\Desktop\\marvin-estate\\client\\postcss.config.js","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\Desktop\\marvin-estate\\client\\src\\App.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"autoClearLogViewerOnFileChanges":true,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-FVQECV0","192.168.70.1","192.168.13.1","192.168.62.230"],"host":"127.0.0.1"}
+17:31:58.210 info host starting tools discovery and integration
+17:31:58.440 info host installing PATH C:\Users\Tamo Marvin\.console-ninja\.bin
+17:32:47.609 info host looking for tools to patch
+17:32:52.575 info host found 1 tool file(s) to patch
+17:32:52.577 info host patching c:\users\tamo marvin\desktop\marvin-estate\client\node_modules\vite\bin\vite.js
+17:32:52.604 info host completed tools discovery and integration
+18:52:20.973 info extension stopping host
+18:57:49.194 info extension stopping host
+19:03:13.952 info extension stopping host
+19:08:59.152 info extension stopping host
+19:08:59.649 info host removing cache folder: 55f237a7543bea9164225835ca0caebd
+19:09:06.997 info extension stopping host
+19:09:17.719 info extension stopping host
+19:09:19.378 info host ------------ starting ------------
+19:09:19.513 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 60267 }
+19:09:19.917 info extension host process output: port:[60267]
+19:09:19.917 info extension 
+19:09:20.023 info host client connected: extension { address: '::', family: 'IPv6', port: 60267 }
+19:09:20.343 info host worker Starting Host Worker...
+19:09:21.271 info host starting host: {"extensionFolder":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238","runtimeHookFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\Tamo Marvin\\Desktop\\marvin-estate\\client\\tailwind.config.js","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\Desktop\\marvin-estate\\client\\src\\App.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"autoClearLogViewerOnFileChanges":true,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-FVQECV0","192.168.70.1","192.168.13.1","192.168.62.230"],"host":"127.0.0.1"}
+19:09:21.311 info host starting tools discovery and integration
+19:09:21.934 info host installing PATH C:\Users\Tamo Marvin\.console-ninja\.bin
+19:09:32.395 info host looking for tools to patch
+19:09:44.663 info host found 1 tool file(s) to patch
+19:09:44.676 info host patching c:\users\tamo marvin\desktop\marvin-estate\client\node_modules\vite\bin\vite.js
+19:09:44.738 info host completed tools discovery and integration
+19:10:13.729 info extension stopping host
+19:11:12.898 info host removing cache folder: ef33befee07f5d2e43316c5107b55e43
+19:13:46.259 info extension stopping host
+19:13:52.771 info extension stopping host
+19:13:53.854 info host ------------ starting ------------
+19:13:54.160 info extension host process output: port:[60267]
+19:13:54.160 info extension 
+19:13:54.330 info host client connected: extension { address: '::', family: 'IPv6', port: 60267 }
+19:13:54.410 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 60267 }
+19:13:54.738 info host worker Starting Host Worker...
+19:13:54.847 info host starting host: {"extensionFolder":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238","runtimeHookFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"autoClearLogViewerOnFileChanges":true,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-FVQECV0","192.168.70.1","192.168.13.1","192.168.62.230"],"host":"127.0.0.1"}
+19:13:54.888 info host starting tools discovery and integration
+19:13:54.901 info host installing PATH C:\Users\Tamo Marvin\.console-ninja\.bin
+19:13:59.310 info host looking for tools to patch
+19:13:59.331 info host found 0 tool file(s) to patch
+19:13:59.350 info host completed tools discovery and integration
+19:23:42.106 info extension stopping host
+19:23:42.167 info host removing cache folder: c070bbfd651bb7ef603e5a50a6ac28e1
+19:24:43.636 info extension stopping host
+19:30:12.439 info extension stopping host
+19:30:13.807 info extension stopping host
+19:30:14.105 info host removing cache folder: cac5417510f8648de61130f83db49622
+19:30:15.207 info host ------------ starting ------------
+19:30:15.626 info extension host process output: port:[59499]
+19:30:15.626 info extension 
+19:30:15.653 info host worker Starting Host Worker...
+19:30:15.706 info host client connected: extension { address: '::', family: 'IPv6', port: 59499 }
+19:30:17.133 info host starting host: {"extensionFolder":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238","runtimeHookFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\(site)\\page.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\(site)\\components\\AuthForm.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\components\\Button.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\(site)\\components\\AuthSocialButton.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\components\\inputs\\Input.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\layout.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\tailwind.config.ts","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"autoClearLogViewerOnFileChanges":true,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-FVQECV0","192.168.70.1","192.168.13.1","192.168.62.230"],"host":"127.0.0.1"}
+19:30:17.173 info host starting tools discovery and integration
+19:30:17.188 info host installing PATH C:\Users\Tamo Marvin\.console-ninja\.bin
+19:30:22.655 info host looking for tools to patch
+19:30:53.456 info host found 2 tool file(s) to patch
+19:30:53.585 info host patching c:\users\tamo marvin\chatme\node_modules\next\dist\compiled\webpack\bundle5.js
+19:30:53.586 info host patching c:\users\tamo marvin\chatme\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+19:30:54.261 info host completed tools discovery and integration
+19:31:13.048 info extension stopping host
+19:31:13.053 ERR! extension error processing message: {
+19:37:44.612 info extension stopping host
+19:37:46.527 info host ------------ starting ------------
+19:37:46.651 info host removing cache folder: 4ee463f1723f7fa6634d23039ca95b32
+19:37:47.356 info extension host process output: port:[59499]
+19:37:47.357 info extension 
+19:37:47.428 info host worker Starting Host Worker...
+19:37:47.475 info host client connected: extension { address: '::', family: 'IPv6', port: 59499 }
+19:37:48.352 info host starting host: {"extensionFolder":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238","runtimeHookFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\(site)\\page.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\(site)\\components\\AuthForm.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\components\\Button.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\(site)\\components\\AuthSocialButton.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\components\\inputs\\Input.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\app\\layout.tsx","reason":"open"},{"path":"c:\\Users\\Tamo Marvin\\chatme\\tailwind.config.ts","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"autoClearLogViewerOnFileChanges":true,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-FVQECV0","192.168.70.1","192.168.13.1","192.168.62.230"],"host":"127.0.0.1"}
+19:37:48.396 info host starting tools discovery and integration
+19:37:48.414 info host looking for tools to patch
+19:37:49.239 info host found 2 tool file(s) to patch
+19:37:49.242 info host patching c:\users\tamo marvin\chatme\node_modules\next\dist\compiled\webpack\bundle5.js
+19:37:49.244 info host patching c:\users\tamo marvin\chatme\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+19:37:49.466 info host completed tools discovery and integration
+19:39:15.700 info extension stopping host
+19:43:11.127 info extension stopping host
+19:43:57.025 info extension stopping host
+19:44:04.022 info extension stopping host
+19:44:05.291 info extension host process output: port:[52543]
+19:44:05.233 info host ------------ starting ------------
+19:44:05.292 info extension 
+19:44:05.462 info host client connected: extension { address: '::', family: 'IPv6', port: 52543 }
+19:44:05.856 info host worker Starting Host Worker...
+19:44:05.985 info host starting host: {"extensionFolder":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238","runtimeHookFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Tamo Marvin\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.238\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"autoClearLogViewerOnFileChanges":true,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-FVQECV0","192.168.70.1","192.168.13.1","192.168.62.230"],"host":"127.0.0.1"}
+19:44:06.042 info host starting tools discovery and integration
+19:44:06.058 info host looking for tools to patch
+19:44:06.150 info host found 0 tool file(s) to patch
+19:44:06.211 info host completed tools discovery and integration
+19:53:26.274 info host scheduling tools patching
+19:53:28.277 info host looking for tools to patch
+19:53:28.459 info host found 1 tool file(s) to patch
+19:53:28.461 info host patching c:\users\tamo marvin\marvin-estate\client\node_modules\vite\bin\vite.js
+19:57:10.556 info extension stopping host
+19:57:10.582 info host removing cache folder: 5434e599866e7536afb87d903dbf87a4
+19:57:10.630 info extension client disconnected: 1006 
+20:02:02.504 info buildHook-8940 installing build hook for vite at c:\users\tamo marvin\marvin-estate\client, node v18.18.2
+20:02:02.550 info buildHook-8940 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+20:02:02.550 info buildHook-8940 running tools: vite
+20:02:02.594 info buildHook-8940 installing fs interceptor
+20:02:02.627 info host client connected: buildHook { address: '::', family: 'IPv6', port: 52543 }
+20:02:02.636 info buildHook-8940 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+20:02:02.636 info buildHook-8940 running tools: vite
+20:02:02.639 info buildHook-8940 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+20:02:02.639 info buildHook-8940 running tools: vite
+20:02:04.144 info buildHook-8940 file processed (stat): 0 log points, error handler: true
+20:02:04.282 info buildHook-8940 file processed (stat): 0 log points, error handler: false
+20:02:04.372 info buildHook-8940 file processed (stat): 0 log points, error handler: false
+20:02:10.874 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 52543 }
+20:02:17.126 info buildHook-8940 file processed (stat): 0 log points, error handler: false
+20:02:17.517 info host client disconnected: runtimeHook 1001
+20:02:17.518 info host client disconnected: runtimeHook
+20:02:17.747 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 52543 }
+20:02:41.376 info host client disconnected: runtimeHook 1001
+20:02:41.377 info host client disconnected: runtimeHook
+20:02:41.529 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 52543 }
+20:02:44.402 info buildHook-8940 file processed (stat): 0 log points, error handler: false
+20:12:15.289 info buildHook-8940 file processed (stat): 0 log points, error handler: false
+20:12:21.008 info host client disconnected: runtimeHook 1001
+20:12:21.008 info host client disconnected: runtimeHook
+20:12:21.198 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 52543 }
+20:17:09.701 info buildHook-8940 file processed (stat): 0 log points, error handler: false
+20:17:18.843 info host client disconnected: runtimeHook 1001
+20:17:18.843 info host client disconnected: runtimeHook
+20:17:19.181 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 52543 }
+20:18:49.245 info host client disconnected: buildHook 4100
+20:18:49.245 info host client disconnected: buildHook 4100, has clients false
+20:47:22.401 info host scheduling tools patching
+20:47:24.405 info host looking for tools to patch
+20:47:24.569 info host found 1 tool file(s) to patch
+20:47:24.570 info host patching c:\users\tamo marvin\marvin-estate\client\node_modules\vite\bin\vite.js
+21:05:59.169 info buildHook-7976 installing build hook for vite at c:\users\tamo marvin\marvin-estate\client, node v18.18.2
+21:05:59.182 info buildHook-7976 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+21:05:59.195 info host client connected: buildHook { address: '::', family: 'IPv6', port: 52543 }
+21:05:59.182 info buildHook-7976 running tools: vite
+21:05:59.186 info buildHook-7976 installing fs interceptor
+21:05:59.205 info buildHook-7976 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+21:05:59.205 info buildHook-7976 running tools: vite
+21:05:59.208 info buildHook-7976 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+21:05:59.208 info buildHook-7976 running tools: vite
+21:05:59.582 info buildHook-7976 file processed (stat): 0 log points, error handler: true
+21:05:59.605 info buildHook-7976 file processed (stat): 0 log points, error handler: false
+21:05:59.687 info buildHook-7976 file processed (stat): 0 log points, error handler: false
+21:06:05.498 info host client disconnected: runtimeHook 1001
+21:06:05.499 info host client disconnected: runtimeHook
+21:06:05.884 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 52543 }
+21:06:07.185 info host client disconnected: runtimeHook 1001
+21:06:07.185 info host client disconnected: runtimeHook
+21:13:27.449 info host client disconnected: buildHook 4100
+21:13:27.449 info host client disconnected: buildHook 4100, has clients false

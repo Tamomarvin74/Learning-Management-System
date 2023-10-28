@@ -1,0 +1,57 @@
+{
+	"name": "dark-low-contrast",
+	"displayName": "Dark Low Contrast Themes",
+	"description": "Dark Low Contrast Themes for Visual Studio Code",
+	"version": "0.6.0",
+	"publisher": "EvgeniyPetukhov",
+	"engines": {
+		"vscode": "^1.48.2"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark Low Contrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-low-contrast-color-theme.json"
+			},
+			{
+				"label": "Dark Low Contrast Warm",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-low-contrast-warm-color-theme.json"
+			},
+			{
+				"label": "Dark Low Contrast Cold",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-low-contrast-cold-color-theme.json"
+			},
+			{
+				"label": "Dark Low Contrast Nature",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-low-contrast-nature-color-theme.json"
+			},
+			{
+				"label": "Dark Low Contrast Fire",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-low-contrast-fire-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/evgeniyp/vscode-dark-low-contrast.git"
+	},
+	"__metadata": {
+		"id": "f54ff52a-32bb-418d-8b5f-983b8eafe22b",
+		"publisherId": "b3bb246e-288f-42e8-bbf4-e7252b09236f",
+		"publisherDisplayName": "Evgeniy Petukhov",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1697464299104,
+		"preRelease": false
+	}
+}

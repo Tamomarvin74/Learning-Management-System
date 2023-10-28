@@ -1,0 +1,92 @@
+{
+   "checksum": "166ec4ac6a36b4e931c1f74e4063b86c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13339522182000000",
+            "date_last_used": "0",
+            "guid": "471396f4-b670-4379-94f5-bf433c97308e",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13339522182000000",
+            "date_last_used": "0",
+            "guid": "dc564a75-3ec6-485b-973c-6ca9ddef424a",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13339522182000000",
+            "date_last_used": "0",
+            "guid": "30a8e65a-5e80-4ef9-8a3f-3b3b8f781027",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13336195997000000",
+            "date_last_used": "0",
+            "guid": "efcd55fb-f361-4662-afe2-b6f9b46bb67b",
+            "id": "8",
+            "name": "InVideo - Online Video Editor | Make professional videos within minutes",
+            "type": "url",
+            "url": "https://studio.invideo.io/editor?id=21017&dimension=16:9&video_id=22015480&type=story"
+         }, {
+            "date_added": "13337443447000000",
+            "date_last_used": "0",
+            "guid": "eb088140-b888-42ca-9296-101e18c62c20",
+            "id": "9",
+            "name": "Chrome Web Store - free vpn forchromium",
+            "type": "url",
+            "url": "https://chrome.google.com/webstore/search/free%20vpn%20forchromium?hl=fr-CA"
+         }, {
+            "date_added": "13339522209000000",
+            "date_last_used": "0",
+            "guid": "a7c3e7bf-6a1b-4ba2-aeeb-835bda326243",
+            "id": "10",
+            "name": "Actualités",
+            "type": "url",
+            "url": "https://news.google.com/"
+         }, {
+            "date_added": "13339522210000000",
+            "date_last_used": "0",
+            "guid": "a05a3513-b44e-4261-906a-d769e1437d68",
+            "id": "11",
+            "name": "Traduire",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         } ],
+         "date_added": "13339525148459470",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13339525148459477",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13339525148459484",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
